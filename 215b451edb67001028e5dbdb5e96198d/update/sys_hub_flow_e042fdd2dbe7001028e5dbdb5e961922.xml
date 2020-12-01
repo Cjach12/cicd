@@ -69,6 +69,31 @@
         <sys_updated_on>2020-03-16 20:20:54</sys_updated_on>
         <table>x_aah_app_deployme_deployment_request</table>
     </sys_flow_record_trigger>
+    <sys_trigger_runner_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <data>{"table":"sys_trigger_runner_mapping","id":"717e2882db702010ee53cc3039961990","name":"trigger_runner","type":"java.util.HashMap"}</data>
+        <identifier>e042fdd2dbe7001028e5dbdb5e961922</identifier>
+        <runner>FDTriggerRunner</runner>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-01 18:38:42</sys_created_on>
+        <sys_id>717e2882db702010ee53cc3039961990</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-01 18:38:42</sys_updated_on>
+        <trigger display_value="">77784e92db2b001028e5dbdb5e961956</trigger>
+    </sys_trigger_runner_mapping>
+    <sys_json_chunk action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAGXLWwqAIBBA0b3MdytwKxGD5fggGUFHLKK99yAo6Pce7ga5MiZGWoTYkAEFVsdC0N1iY2oY+KyjnmaXU2XzUPPEWAtljKEIqH749EIigd31JfG/42XNK+wHxPKN7oYAAAA=</data>
+        <document_id>717e2882db702010ee53cc3039961990</document_id>
+        <field>trigger_runner</field>
+        <length>144</length>
+        <position>0</position>
+        <source_table>sys_trigger_runner_mapping</source_table>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-01 18:38:42</sys_created_on>
+        <sys_id>797e2882db702010ee53cc3039961990</sys_id>
+    </sys_json_chunk>
+    <sys_trigger_runner_mapping action="delete_multiple" query="identifier=e042fdd2dbe7001028e5dbdb5e961922^sys_idNOT IN717e2882db702010ee53cc3039961990"/>
     <sys_hub_flow_component action="delete_multiple" query="flow=e042fdd2dbe7001028e5dbdb5e961922^sys_idNOT IN0e68d7dedb63001028e5dbdb5e9619b2,27dc799adbe7001028e5dbdb5e9619a2,2fdc799adbe7001028e5dbdb5e9619ab,6bdc799adbe7001028e5dbdb5e961997,6fdc799adbe7001028e5dbdb5e9619a7,73dc799adbe7001028e5dbdb5e9619ba,a3dc799adbe7001028e5dbdb5e9619af,bbdc799adbe7001028e5dbdb5e9619b7,bfdc799adbe7001028e5dbdb5e9619c0,d074f156dbe7001028e5dbdb5e961947,e3dc799adbe7001028e5dbdb5e96199c,e7dc799adbe7001028e5dbdb5e96199f,efdc799adbe7001028e5dbdb5e9619a4,f3dc799adbe7001028e5dbdb5e9619b5,f7dc799adbe7001028e5dbdb5e9619be"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
