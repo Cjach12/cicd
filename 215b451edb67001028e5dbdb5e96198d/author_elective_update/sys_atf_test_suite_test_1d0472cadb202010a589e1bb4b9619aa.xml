@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="DELETE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-19 18:06:45</sys_created_on>
+        <sys_id>1d0472cadb202010a589e1bb4b9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cbdd2206db202010a589e1bb4b96196b</sys_name>
+        <sys_package display_value="App Deployment Request (CICD)" source="x_aah_app_deployme">215b451edb67001028e5dbdb5e96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Deployment Request (CICD)">215b451edb67001028e5dbdb5e96198d</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_1d0472cadb202010a589e1bb4b9619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-19 18:06:45</sys_updated_on>
+        <test display_value="CICD Test">cbdd2206db202010a589e1bb4b96196b</test>
+        <test_suite display_value="aaa">41e3fe8adb202010a589e1bb4b961901</test_suite>
+    </sys_atf_test_suite_test>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App Deployment Request (CICD)">215b451edb67001028e5dbdb5e96198d</application>
+        <file_path/>
+        <instance_id>ac6bf990db715b80b2e05d00cf9619b8</instance_id>
+        <instance_name>dev57485</instance_name>
+        <name>sys_atf_test_suite_test_1d0472cadb202010a589e1bb4b9619aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test"><sys_atf_test_suite_test action="INSERT_OR_UPDATE"><abort_on_failure>false</abort_on_failure><order/><sys_class_name>sys_atf_test_suite_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-19 18:06:45</sys_created_on><sys_id>1d0472cadb202010a589e1bb4b9619aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cbdd2206db202010a589e1bb4b96196b</sys_name><sys_package display_value="App Deployment Request (CICD)" source="x_aah_app_deployme">215b451edb67001028e5dbdb5e96198d</sys_package><sys_policy/><sys_scope display_value="App Deployment Request (CICD)">215b451edb67001028e5dbdb5e96198d</sys_scope><sys_update_name>sys_atf_test_suite_test_1d0472cadb202010a589e1bb4b9619aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-19 18:06:45</sys_updated_on><test display_value="CICD Test">cbdd2206db202010a589e1bb4b96196b</test><test_suite display_value="aaa">41e3fe8adb202010a589e1bb4b961901</test_suite></sys_atf_test_suite_test></record_update>]]></payload>
+        <payload_hash>-146590150</payload_hash>
+        <record_name>cbdd2206db202010a589e1bb4b96196b</record_name>
+        <reverted_from/>
+        <source>47c783b6db50a010a589e1bb4b9619a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-19 18:06:45</sys_created_on>
+        <sys_id>ec147e0adb202010a589e1bb4b961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175e1aff1f40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-19 18:06:45</sys_updated_on>
+        <type>Test Suite Test</type>
+        <update_guid>28147e0a342020102d251a2855ab7211</update_guid>
+        <update_guid_history>28147e0a342020102d251a2855ab7211:-146590150</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-19 18:55:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_suite_test">sys_atf_test_suite_test</sys_db_object>
+        <sys_id>b9d33728c9054a978fa2af5d7d0885f1</sys_id>
+        <sys_metadata>1d0472cadb202010a589e1bb4b9619aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cbdd2206db202010a589e1bb4b96196b</sys_name>
+        <sys_package display_value="App Deployment Request (CICD)" source="x_aah_app_deployme">215b451edb67001028e5dbdb5e96198d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App Deployment Request (CICD)">215b451edb67001028e5dbdb5e96198d</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_atf_test_suite_test_1d0472cadb202010a589e1bb4b9619aa</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_suite_test_1d0472cadb202010a589e1bb4b9619aa">ec147e0adb202010a589e1bb4b961911</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-19 18:55:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
